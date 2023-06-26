@@ -3,7 +3,7 @@
 
 ### Cześć , witaj na moim profilu GitHub! 😊
 
-Jestem Mike Csta, 20-letni programista aplikacji mobilnych i jestem tu, aby dzielić się moją pasją do kodowania z Tobą! 💻
+Jestem Mike Csta, aktualnie 20-letni programista aplikacji mobilnych i jestem tu, aby dzielić się moją pasją do kodowania z innymi! 💻
 
 ### O mnie 🙌
 
