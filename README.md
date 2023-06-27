@@ -21,6 +21,12 @@ Moje ambicje sięgają dalej niż bycie tylko full-stack developerem. Marzę o t
 
 Na moim GitHubie znajdziesz wiele projektów - od małych programów po większe aplikacje, które stworzyłem. Pracuję z zaangażowaniem i ciągle poszerzam swoją wiedzę. Jeśli masz jakiekolwiek pytania lub sugestie, chętnie porozmawiam z Tobą! 🤗
 
+
+Mam też wiele lat doświadczenia w Pakiecie Adobe, Szczególnie After Effect, Premiere Pro, Photoshop, XD po za tym Programy do grafiki 3D, Blender itp.
+
+Narzędzia z których korzystałem to m.in: Visual studio, Visual studio code, Jira, Git, Miro, Monday,
+
+
 ### Kontakt 📬
 
 Jeśli chcesz się ze mną skontaktować lub dowiedzieć się więcej, nie wahaj się napisać do mnie. Jestem otwarty na nowe możliwości i chętnie nawiązuję nowe znajomości. 😄
