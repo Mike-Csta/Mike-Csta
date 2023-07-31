@@ -7,7 +7,7 @@ Jestem Mike Csta, aktualnie 20-letni programista aplikacji mobilnych i jestem tu
 
 ### O mnie 🙌
 
-Jestem programistą aplikacji mobilnych specjalizującym się w JavaScript, React, React Native i Pythonie. Moje narzędzia pracy to głównie Visual studio. 🛠️ Ale moje zainteresowania sięgają znacznie dalej niż tylko te technologie.
+Jestem programistą aplikacji mobilnych specjalizującym się w JavaScript, React, React Native i docelowo w Pythonie. Moje narzędzia pracy to głównie Visual studio. 🛠️ Ale moje zainteresowania sięgają znacznie dalej niż tylko te technologie.
 
 Już od najmłodszych lat fascynuję się informatyką. Od kiedy pamiętam, zawsze miałem głowę pełną pomysłów i niesamowitą chęć zrozumienia, jak działają rzeczy. To właśnie prowadziło mnie do niekończących się godzin spędzonych na kodowaniu i tworzeniu nowych, kreatywnych rozwiązań. 💡
 
