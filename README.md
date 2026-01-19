@@ -1,5 +1,5 @@
 ### Cześć, witam na moim profilu Github!😊
-Nazywam się Mike, mam 22 lata i jestem programistą aplikacji mobilnych. Chętnie dzielę się swoją pasją do kodowania z innymi! 💻
+Nazywam się Mike, mam 23 lata i jestem programistą aplikacji mobilnych. Chętnie dzielę się swoją pasją do kodowania z innymi! 💻
 
 O mnie (Aktualnie pracuje w...)🙌
 Jestem programistą aplikacji mobilnych, specjalizującym się w React, React Native i Pythonie. Piszę też aplikacje webowe z użyciem NEXT.JS oraz desktopowe z użyciem Tauri.js (wcześniej korzystałem z elektron.js) uczę się też c#. Mam styczność z ORACLE DB (sql, PL/SQL). Moim głównym narzędziem pracy jest Visual Studio Code.
